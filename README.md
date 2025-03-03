@@ -17,3 +17,13 @@ This repository contains:
 - Lab1-5_mathheader.h      # Header file with function prototypes
 - Inet3101-studentname-lab15.docx  # Lab report (replace 'studentname' with your name)
 - README.md                # Documentation file
+
+## Clone the Repository
+
+To clone the repository, use the following command:
+
+```bash
+git clone https://github.com/axbjos/inet3101-dynamic-memory.git
+
+gcc Lab1-5_part3.c -o Lab1-5_part3
+./Lab1-5_part3
